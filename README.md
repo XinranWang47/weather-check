@@ -23,18 +23,15 @@ A simple weather search app built with **React + TypeScript + Vite**. Users can 
 ## 📦 Installation & Setup
 
 1. **Clone the repo**
-
-````bash
-git clone https://github.com/your-username/weather-app.git
-cd weather-app
-
+   ```bash
+   git clone https://github.com/your-username/weather-app.git
+   cd weather-app
 2. **Install dependencies**
-```bash
-npm install
-
+   ```bash
+   npm install
 3. **Run the app**
-```bash
-npm run dev
+   ```bash
+   npm run dev
 
 ## 🔑 Getting an API Key
 This project uses OpenWeatherMap API. To fetch weather data, you’ll need to:
